@@ -1,2 +1,6 @@
 # WinChiller
-These are tools to manipulate Windows 10 images.  This is all configuration, where on setup and install the configurations created are executed.   Remove almost anything - apps, packages, entire uups - and one may add their own apps and commands.
+The intentions of this project include:
+.   provide analysis of MS Windows builds in form of logs from vaious tools
+.   proviude means for non-destructive removal / nterference with "NonRemovle"
+.   provide users the mautomated means to download and configure official MS Windows 10 images.
+
