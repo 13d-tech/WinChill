@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unattend xmlns="urn:schemas-microsoft-com:unattend">
+    <servicing>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-ProfessionalEdition" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="remove">
+            <assemblyIdentity name="Microsoft-OneCore-DirectX-Database-FOD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Hello-Face-Migration-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Hello-Face-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-InternetExplorer-Optional-Package" version="11.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-LanguageFeatures-Basic-en-us-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-LanguageFeatures-Handwriting-en-us-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-LanguageFeatures-OCR-en-us-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-LanguageFeatures-Speech-en-us-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-LanguageFeatures-TextToSpeech-en-us-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-MediaPlayer-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-MSPaint-FoD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-MSPaint-FoD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-MSPaint-FoD-Package" version="10.0.19041.1" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-MSPaint-FoD-Package" version="10.0.19041.1" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Notepad-FoD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Notepad-FoD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Notepad-FoD-Package" version="10.0.19041.1" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Notepad-FoD-Package" version="10.0.19041.1" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-PowerShell-ISE-FOD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-PowerShell-ISE-FOD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-PowerShell-ISE-FOD-Package" version="10.0.19041.1" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-PowerShell-ISE-FOD-Package" version="10.0.19041.1" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Printing-PMCPPC-FoD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Printing-PMCPPC-FoD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Printing-WFS-FoD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Printing-WFS-FoD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-QuickAssist-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-StepsRecorder-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-StepsRecorder-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-StepsRecorder-Package" version="10.0.19041.1" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-StepsRecorder-Package" version="10.0.19041.1" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-TabletPCMath-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-UserExperience-Desktop-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-WordPad-FoD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-WordPad-FoD-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-WordPad-FoD-Package" version="10.0.19041.1" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-WordPad-FoD-Package" version="10.0.19041.1" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="OpenSSH-Client-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Foundation-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+            <selection name="Internet-Explorer-Optional-amd64" state="false" />
+            <selection name="MediaPlayback" state="false" />
+            <selection name="MicrosoftWindowsPowerShellV2Root" state="false" />
+            <selection name="MSRDC-Infrastructure" state="false" />
+            <selection name="NetFx4-AdvSrvs" state="false" />
+            <selection name="Printing-Foundation-Features" state="false" />
+            <selection name="Printing-PrintToPDFServices-Features" state="false" />
+            <selection name="Printing-XPSServices-Features" state="false" />
+            <selection name="SearchEngine-Client-Package" state="false" />
+            <selection name="SmbDirect" state="false" />
+            <selection name="WorkFolders-Client" state="false" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-Client-LanguagePack-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="en-US" />
+        </package>
+        <package action="configure">
+            <assemblyIdentity name="Microsoft-Windows-FodMetadata-Package" version="10.0.19041.1" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="" />
+        </package>
+    </servicing>
+    <settings pass="specialize">
+        <component name="Microsoft-Windows-IE-InternetExplorer" processorArchitecture="wow64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <AllSitesCompatibilityMode>true</AllSitesCompatibilityMode>
+        </component>
+    </settings>
+    <cpi:offlineImage cpi:source="wim:z:/win/20h2x64/isofolder/sources/install.wim#Windows 10 Pro" xmlns:cpi="urn:schemas-microsoft-com:cpi" />
+</unattend>

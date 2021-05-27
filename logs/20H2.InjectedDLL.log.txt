@@ -1,0 +1,270 @@
+==================================================
+Name              : bcryptPrimitives.dll
+Base Address      : 0x75400000
+Size              : 0x0005d000
+Version           : 10.0.19041.662 (WinBuild.160101.0800)
+Description       : Windows Cryptographic Primitives Library
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:18:47 AM
+Created Date      : 5/23/2021 9:18:47 AM
+File Size         : 375,000
+Filename          : C:\Windows\System32\bcryptPrimitives.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : combase.dll
+Base Address      : 0x75600000
+Size              : 0x00281000
+Version           : 10.0.19041.1 (WinBuild.160101.0800)
+Description       : Microsoft COM for Windows
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:22:07 AM
+Created Date      : 5/23/2021 9:22:07 AM
+File Size         : 2,635,128
+Filename          : C:\Windows\System32\combase.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : CoreMessaging.dll
+Base Address      : 0x6e2f0000
+Size              : 0x0009b000
+Version           : 10.0.19041.867
+Description       : Microsoft CoreMessaging Dll
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:22:05 AM
+Created Date      : 5/23/2021 9:22:05 AM
+File Size         : 630,592
+Filename          : C:\Windows\System32\CoreMessaging.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : CoreUIComponents.dll
+Base Address      : 0x6e390000
+Size              : 0x0027e000
+Version           : 10.0.19041.546
+Description       : Microsoft Core UI Components Dll
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:21:07 AM
+Created Date      : 5/23/2021 9:21:07 AM
+File Size         : 2,621,720
+Filename          : C:\Windows\System32\CoreUIComponents.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : gdi32full.dll
+Base Address      : 0x761f0000
+Size              : 0x000dc000
+Version           : 10.0.19041.746 (WinBuild.160101.0800)
+Description       : GDI Client DLL
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:22:25 AM
+Created Date      : 5/23/2021 9:22:25 AM
+File Size         : 895,040
+Filename          : C:\Windows\System32\gdi32full.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : IMM32.DLL
+Base Address      : 0x755d0000
+Size              : 0x00025000
+Version           : 10.0.19041.546 (WinBuild.160101.0800)
+Description       : Multi-User Windows IMM32 API Client DLL
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:22:19 AM
+Created Date      : 5/23/2021 9:22:19 AM
+File Size         : 143,056
+Filename          : C:\Windows\System32\IMM32.DLL
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : kernel.appcore.dll
+Base Address      : 0x74410000
+Size              : 0x0000f000
+Version           : 10.0.19041.546 (WinBuild.160101.0800)
+Description       : AppModel API Host
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:21:30 AM
+Created Date      : 5/23/2021 9:21:30 AM
+File Size         : 52,672
+Filename          : C:\Windows\SYSTEM32\kernel.appcore.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : KERNELBASE.dll
+Base Address      : 0x76c00000
+Size              : 0x00214000
+Version           : 10.0.19041.804 (WinBuild.160101.0800)
+Description       : Windows NT BASE API Client DLL
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:18:48 AM
+Created Date      : 5/23/2021 9:18:47 AM
+File Size         : 2,182,176
+Filename          : C:\Windows\System32\KERNELBASE.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : MSCTF.dll
+Base Address      : 0x75fa0000
+Size              : 0x000d4000
+Version           : 10.0.19041.1 (WinBuild.160101.0800)
+Description       : MSCTF Server DLL
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:20:38 AM
+Created Date      : 5/23/2021 9:20:38 AM
+File Size         : 860,472
+Filename          : C:\Windows\System32\MSCTF.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : msvcp_win.dll
+Base Address      : 0x76fa0000
+Size              : 0x0007b000
+Version           : 10.0.19041.789 (WinBuild.160101.0800)
+Description       : Microsoft® C Runtime Library
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:22:06 AM
+Created Date      : 5/23/2021 9:22:06 AM
+File Size         : 495,840
+Filename          : C:\Windows\System32\msvcp_win.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : ntmarta.dll
+Base Address      : 0x6e2c0000
+Size              : 0x00029000
+Version           : 10.0.19041.1 (WinBuild.160101.0800)
+Description       : Windows NT MARTA provider
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:22:12 AM
+Created Date      : 5/23/2021 9:22:12 AM
+File Size         : 152,904
+Filename          : C:\Windows\SYSTEM32\ntmarta.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : sechost.dll
+Base Address      : 0x75d50000
+Size              : 0x00076000
+Version           : 10.0.19041.1 (WinBuild.160101.0800)
+Description       : Host for SCM/SDDL/LSA Lookup APIs
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:20:25 AM
+Created Date      : 5/23/2021 9:20:25 AM
+File Size         : 477,784
+Filename          : C:\Windows\System32\sechost.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : SHCORE.dll
+Base Address      : 0x75bc0000
+Size              : 0x00087000
+Version           : 10.0.19041.1 (WinBuild.160101.0800)
+Description       : SHCORE
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:21:51 AM
+Created Date      : 5/23/2021 9:21:51 AM
+File Size         : 548,528
+Filename          : C:\Windows\System32\SHCORE.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : textinputframework.dll
+Base Address      : 0x6e610000
+Size              : 0x000b9000
+Version           : 10.0.19041.844 (WinBuild.160101.0800)
+Description       : "TextInputFramework.DYNLINK"
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:21:17 AM
+Created Date      : 5/23/2021 9:21:17 AM
+File Size         : 754,072
+Filename          : C:\Windows\SYSTEM32\textinputframework.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : ucrtbase.dll
+Base Address      : 0x75dd0000
+Size              : 0x00120000
+Version           : 10.0.19041.789 (WinBuild.160101.0800)
+Description       : Microsoft® C Runtime Library
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:22:06 AM
+Created Date      : 5/23/2021 9:22:06 AM
+File Size         : 1,181,208
+Filename          : C:\Windows\System32\ucrtbase.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : win32u.dll
+Base Address      : 0x76e20000
+Size              : 0x00018000
+Version           : 10.0.19041.867 (WinBuild.160101.0800)
+Description       : Win32u
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:21:48 AM
+Created Date      : 5/23/2021 9:21:48 AM
+File Size         : 92,944
+Filename          : C:\Windows\System32\win32u.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : wintypes.dll
+Base Address      : 0x6f680000
+Size              : 0x000db000
+Version           : 10.0.19041.1 (WinBuild.160101.0800)
+Description       : Windows Base Types DLL
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:22:09 AM
+Created Date      : 5/23/2021 9:22:09 AM
+File Size         : 896,064
+Filename          : C:\Windows\SYSTEM32\wintypes.dll
+File Attributes   : A
+==================================================
+
+==================================================
+Name              : WS2_32.dll
+Base Address      : 0x76ea0000
+Size              : 0x00063000
+Version           : 10.0.19041.1 (WinBuild.160101.0800)
+Description       : Windows Socket 2.0 32-Bit DLL
+Company           : Microsoft Corporation
+Product Name      : Microsoft® Windows® Operating System
+Modified Date     : 5/23/2021 9:20:26 AM
+Created Date      : 5/23/2021 9:20:26 AM
+File Size         : 397,728
+Filename          : C:\Windows\System32\WS2_32.dll
+File Attributes   : A
+==================================================
+
